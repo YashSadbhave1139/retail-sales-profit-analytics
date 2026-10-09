@@ -1,0 +1,11 @@
+REQUIRED DELIVERABLES FROM THE SESSION
+1. Python code file (.py or .ipynb): project.py
+2. Requirements file (.txt): requirements.txt
+3. Project report (Word/PDF): Project_Report.docx
+4. README file (.md): README.md
+5. GitHub repository URL: create your own repository and paste its URL in the form
+
+Important:
+- Upload the four files individually; do not submit a ZIP if the form prohibits ZIPs.
+- The project uses synthetic data. If the organizer requires an external dataset link, replace the generator with a new dataset not used in the masterclasses and add its exact URL to README.md.
+- Rename files only if the official form provides required naming conventions.
